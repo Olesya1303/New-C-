@@ -1,0 +1,15 @@
+C:\C#First\Example_007\bin\Debug\net6.0\Example_007.exe
+C:\C#First\Example_007\bin\Debug\net6.0\Example_007.deps.json
+C:\C#First\Example_007\bin\Debug\net6.0\Example_007.runtimeconfig.json
+C:\C#First\Example_007\bin\Debug\net6.0\Example_007.dll
+C:\C#First\Example_007\bin\Debug\net6.0\Example_007.pdb
+C:\C#First\Example_007\obj\Debug\net6.0\Example_007.csproj.AssemblyReference.cache
+C:\C#First\Example_007\obj\Debug\net6.0\Example_007.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#First\Example_007\obj\Debug\net6.0\Example_007.AssemblyInfoInputs.cache
+C:\C#First\Example_007\obj\Debug\net6.0\Example_007.AssemblyInfo.cs
+C:\C#First\Example_007\obj\Debug\net6.0\Example_007.csproj.CoreCompileInputs.cache
+C:\C#First\Example_007\obj\Debug\net6.0\Example_007.dll
+C:\C#First\Example_007\obj\Debug\net6.0\refint\Example_007.dll
+C:\C#First\Example_007\obj\Debug\net6.0\Example_007.pdb
+C:\C#First\Example_007\obj\Debug\net6.0\Example_007.genruntimeconfig.cache
+C:\C#First\Example_007\obj\Debug\net6.0\ref\Example_007.dll
